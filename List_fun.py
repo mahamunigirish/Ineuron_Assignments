@@ -314,6 +314,7 @@ class Try_List:
 
 
 obj1 = Try_List()
+l = [[1,2,3,4],(11,12,13,14),("a","b","c"),set([2,3,44,5,6,44,7,8,44,5,44,6,44]),{"k1":"sudh","k2":"ineuron","k3":"kumar",3:6,7:8},["ineuron","datascience"]]
 '''
 obj1.sep_list(l)
 obj1.sep_dict(l)
