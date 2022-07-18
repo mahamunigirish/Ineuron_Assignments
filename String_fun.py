@@ -150,14 +150,4 @@ class Extract_Strings:
 
 
 
-obj1 = Extract_Strings()
-obj1.string_jump("this is My First Python programming class and i am learNING python string and its function")
-obj1.string_rev("this is My First Python programming class and i am learNING python string and its function")
 
-obj1.string_lower("THIS IS MY FIRST PROGGRAM OF BASIC STRUCTURE WHICH I AM FOLLOWING !")
-obj1.string_Capitalize("THIS IS MY FIRST PROGGRAM OF BASIC STRUCTURE WHICH I AM FOLLOWING !")
-obj1.Split_Uppercase_("this is My First Python programming class and i am learNING python string and its function")
-obj1.Expand_string("xyz\t12345\tabc")
-obj1.strip_the_given_string("   hey boy what are you doing ?   ")
-obj1.Replace_string("This is girish guys ,  how are you doing ","r","c")
-obj1.string_center("Girish Mahamuni",20,"_")
